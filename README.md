@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚I'm currently learning About Web/App Development<br>🎯 My Goals For the Future to Becoming a AI/ML Engineers<br>🎲 Fun fact about me i love going to the Gym and Play Basketball</p>
+<p data-importer="text" align="left">📚I'm currently learning About Web/App Development<br>🎲 Fun fact about me i love going to the Gym and Play Basketball</p>
 
 ###
 
