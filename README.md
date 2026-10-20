@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Davin
 ==============================================================================================================================
 
-Dedicated and driven Informatics Engineering student currently in my 5th semester, with a strong focus on web and mobile development. A fast learner and highly adaptable individual who thrives on exploring new technologies and building impactful digital solutions. Passionate about continuous growth and eager to tackle challenging projects in the software development space
+Dedicated and driven Informatics Engineering student currently in my 5th semester, with a strong focus on mobile development. A fast learner and highly adaptable individual who thrives on exploring new technologies and building impactful digital solutions. Passionate about continuous growth and eager to tackle challenging projects in the software development space
 
 * 🌍  I'm based in Indonesia
-* 🧠  I'm currently learning Golang, Dart
+* 🧠  I'm currently learning dart
 * 💬  Ask me about i love go to gym and play basketball
 
 <p align="left">
