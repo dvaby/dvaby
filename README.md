@@ -1,21 +1,78 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Davin
 ==============================================================================================================================
 
-Dedicated and driven Informatics Engineering student currently in my 5th semester, with a strong focus on mobile development. A fast learner and highly adaptable individual who thrives on exploring new technologies and building impactful digital solutions. Passionate about continuous growth and eager to tackle challenging projects in the software development space
-
-* 🌍  I'm based in Indonesia
-* 🧠  I'm currently learning dart
-* 💬  Ask me about i love go to gym and play basketball
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://giphy.com/gifs/jJKMIAScMCemDNVyj4" width="400" alt="Deskripsi GIF">
 </p>
 
+Dedicated and driven Informatics Engineering student currently in my 5th semester, with a strong focus on mobile development. A fast learner and highly adaptable individual who thrives on exploring new technologies and building impactful digital solutions. Passionate about continuous growth and eager to tackle challenging projects in the software development space
+
+- 🔭 I'm currently working on **Flutter**
+
+- 🌱 I'm currently learning **Flutter and Go**
+
+- 👯 I'm looking to collaborate on **open source project**
+
+- 🤝 I'm looking for help with **Learning System Design**
+
+- 📫 How to reach me **dapinmail@gmail.com**
+
+- ⚡ Fun fact **i love making app**
+
 ### Socials
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="36" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/davinaby18" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="36" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Email -->
+  <a href="dapinmail@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="36" height="36" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/dvaby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/aby1272" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+## Tech Stack
 
-<a href="http://www.github.com/dvaby"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dvaby&stroke=ffffff&background=27272a&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,php" alt="Web Development" height="35"/>
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Development" height="35"/>
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,go" alt="Backend Development" height="35"/>
+</p>
+
+### 🧮 DSA (Data Structures & Algorithms)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,go" alt="DSA" height="35"/>
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,redis" alt="Database" height="35"/>
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,postman,figma" alt="Tools & DevOps" height="35"/>
+</p>
+
+
+<p align="center">
+  <img src="https://giphy.com/gifs/xT4uQfHn1CUGyYsiiY" width="400" alt="Deskripsi GIF">
+</p>
+
+      
