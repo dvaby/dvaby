@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jJKMIAScMCemDNVyj4/giphy.gif" width="400" alt="GIF Pertama">
+  <img src="./Peace%20Tree%20GIF.gif" width="400" alt="Peace Tree GIF">
 </p>
 
 Dedicated and driven Informatics Engineering student currently in my 5th semester, with a strong focus on mobile development. A fast learner and highly adaptable individual who thrives on exploring new technologies and building impactful digital solutions. Passionate about continuous growth and eager to tackle challenging projects in the software development space
