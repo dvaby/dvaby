@@ -22,7 +22,7 @@ Dedicated and driven Informatics Engineering student currently in my 5th semeste
 ### Socials
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/adrian-wira" target="_blank">
+  <a href="https://www.linkedin.com/in/muhamad-davin-abiansya-sedijarto" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="36" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
