@@ -7,9 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Dedicated and driven Informatics Engineering student currently in my 5th semester, with a strong focus on mobile development. A fast learner and highly adaptable individual who thrives on exploring new technologies and building impactful digital solutions. Passionate about continuous growth and eager to tackle challenging projects in the software development space
 
-- 🔭 I'm currently working on **Flutter**
+- 🔭 I'm currently working on **Golang Project**
 
-- 🌱 I'm currently learning **Flutter and Go**
+- 🌱 I'm currently learning **Golang**
 
 - 👯 I'm looking to collaborate on **open source project**
 
